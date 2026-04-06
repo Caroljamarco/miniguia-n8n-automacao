@@ -1,0 +1,1 @@
+# miniguia-n8n-automacao
